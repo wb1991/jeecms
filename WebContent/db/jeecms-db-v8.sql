@@ -2,7 +2,7 @@
 # Date: 2017-01-10 15:42:25
 # Generator: MySQL-Front 5.3  (Build 4.263)
 
-/*!40101 SET NAMES utf8 */;
+/*!40101 SET NAMES utf8   */;
 
 #
 # Structure for table "jc_account_draw"
